@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=intellijidea&logoColor=black"/>
